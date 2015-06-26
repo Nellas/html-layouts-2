@@ -6,7 +6,7 @@ html, body {
 
 section {
     width: 80%;
-    height: 25%;
+    height: 30%;
     background: #F4F4F4;
     margin-top: 3%;
     margin-left: 10%;
@@ -42,13 +42,13 @@ section {
 }
 
 .bottom {
-    height: 60%;
+    height: 50%;
 }
 
 .imageHolder {
     width: 90%;
     height: 60%;
-    margin-top: 5%;
+    margin-top: 2%;
     margin-left: 5%;
     background: url(https://secure.static.tumblr.com/85b1ca0cc38812b0fc63c216e7c16e03/u2rywtx/Am5n00guo/tumblr_static_limbo.jpg);
     background-size: cover;
@@ -71,7 +71,7 @@ footer {
     color: white;
     float: right;
     padding-right: 75px;
-    padding-top: 50px;
+    padding-top: 2%;
     margin-left: 50px;
 }
 
@@ -80,5 +80,5 @@ footer {
     font-family: sans-serif;
     color: white;
     float: right;
-    padding-top: 50px;
+    padding-top: 2%;
 }
