@@ -1,0 +1,84 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background: #D0D0D0;
+}
+
+section {
+    width: 80%;
+    height: 25%;
+    background: #F4F4F4;
+    margin-top: 3%;
+    margin-left: 10%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+
+}
+
+.text {
+    width: 90%;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: 5%;
+}
+
+.buttonContainer {
+    margin-left: 5%;
+}
+
+.button {
+    height: 70px;
+    width: 165px;
+    background: #C60B1D;
+    font-size: 35px;
+    color: white;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.button2 {
+    background: #498CD9;
+}
+
+.bottom {
+    height: 60%;
+}
+
+.imageHolder {
+    width: 90%;
+    height: 60%;
+    margin-top: 5%;
+    margin-left: 5%;
+    background: url(https://secure.static.tumblr.com/85b1ca0cc38812b0fc63c216e7c16e03/u2rywtx/Am5n00guo/tumblr_static_limbo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+footer {
+    height: 10%;
+    width: 100%;
+    background: #333333;
+    position: fixed;
+    bottom: 0px;
+    float: left;
+}
+
+.apple {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+    float: right;
+    padding-right: 75px;
+    padding-top: 50px;
+    margin-left: 50px;
+}
+
+.google {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: white;
+    float: right;
+    padding-top: 50px;
+}
